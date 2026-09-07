@@ -13,8 +13,10 @@ description: 村上さん(食品メーカー営業、Instagramアカウント da
 - 管理一式: 「SNS運用管理」フォルダ(https://drive.google.com/drive/folders/1r18nLJQocwJn0mvvNAEOdHi1Ypm57mw7)
   - `下書き/`(https://drive.google.com/drive/folders/1Aqyicr-S-Qfco5QWFR4y0MjhHVkUyfhj)
   - `文体サンプル/`(https://drive.google.com/drive/folders/1bC1L8WRyg6s0nf7WcLqsVBjRzInrOBpt)← `style_guide.md` をここに保存
-  - `素材管理`(スプレッドシート, ID: 1D0fZkspH_qtcJkH2yPnGMZYvlw6OwH6cZuc_8PagatY)
-  - `投稿履歴`(スプレッドシート, ID: 142fX9u0UJyNe8CKB46o5wv2-_GTY4ThyESmuVgKjLOE)
+  - `素材管理`(スプレッドシート, ID: 122JRINsX8lFb_Ve6chUaJm0PwTmJgQRwh1FyAFcbmAQ)
+  - `投稿履歴`(スプレッドシート, ID: 1A4RXpZcHJwiyZPnjmWqpNzZu8AL6naoVB38L1lrExYI)
+
+  ※Google Sheetsは行の部分更新APIがないため、更新のたびに既存シートをtrashして全内容を含む新規ファイルを再作成する(ファイルIDが変わる点に注意。最新IDはこのSKILL.mdを都度更新すること)。
 
 ファイルの検索・作成・読み書きにはGoogle Drive連携ツール(search_files / create_file / update_file / read_file_content / download_file_content 等)を使う。
 
