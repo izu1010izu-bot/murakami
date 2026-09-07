@@ -14,7 +14,7 @@ description: 村上さん(食品メーカー営業、Instagramアカウント da
   - `下書き/`(https://drive.google.com/drive/folders/1Aqyicr-S-Qfco5QWFR4y0MjhHVkUyfhj)
   - `文体サンプル/`(https://drive.google.com/drive/folders/1bC1L8WRyg6s0nf7WcLqsVBjRzInrOBpt)← `style_guide.md` をここに保存
   - `素材管理`(スプレッドシート, ID: 122JRINsX8lFb_Ve6chUaJm0PwTmJgQRwh1FyAFcbmAQ)
-  - `投稿履歴`(スプレッドシート, ID: 1A4RXpZcHJwiyZPnjmWqpNzZu8AL6naoVB38L1lrExYI)
+  - `投稿履歴`(スプレッドシート, ID: 1v0ONWbBJrw48TXJ6ryE-NkwJJdwYY_MxO24IpU9daZM)
 
   ※Google Sheetsは行の部分更新APIがないため、更新のたびに既存シートをtrashして全内容を含む新規ファイルを再作成する(ファイルIDが変わる点に注意。最新IDはこのSKILL.mdを都度更新すること)。
 
@@ -59,6 +59,8 @@ description: 村上さん(食品メーカー営業、Instagramアカウント da
 ### ステップ4: 村上さんへの報告
 
 作成したキャプション案と、使った素材、保存先(下書きファイルと投稿履歴の行)を簡潔に伝える。投稿は村上さんが内容を確認し、良ければ自分でInstagramアプリにコピーして投稿する(この段階では自動投稿は行わない)。
+
+**下書きファイル自体には「確認事項」「リクエスト」等の文章を含めない**(村上さんの指定)。商品名やハッシュタグが不明な場合も、確認を求める一文を下書きに書かず、分かる範囲でキャプション案だけを作成する。判断が必要な点があれば、報告時の会話で簡潔に触れる程度にとどめる。
 
 ## 運用ルール
 
